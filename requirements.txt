@@ -1,5 +1,16 @@
 pip
 git+git://github.com/Rapptz/discord.py.git#egg=discord.py[voice]
+git+https://github.com/paulovn/python-aiml
+git+https://github.com/shaunduncan/giphypop.git#egg=giphypop
 youtube_dl
 imgurpython
 pillow
+requests
+parsedatetime
+psutil
+pyparsing
+pyquery
+pyspeedtest
+pytz
+wikipedia
+mtranslate
