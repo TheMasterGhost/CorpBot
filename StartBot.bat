@@ -2,7 +2,7 @@
 
 cls
 echo   ###                ###
-echo  # RayBot - CorpNewt #
+echo  # CorpBot - CorpNewt #
 echo ###                ###
 echo.
 
